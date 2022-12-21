@@ -9,5 +9,3 @@ To run a python file
 
 Output will be written into terminal
 
-
-Code will be uploaded later after grades are distributed.
